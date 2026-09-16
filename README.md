@@ -12,7 +12,7 @@ Der Großteil meiner Arbeit steckt in Kundenlösungen, die nicht öffentlich sin
 
 | Projekt | Worum es geht | Stand |
 |---|---|---|
-| **[filemaker-WebViewer](https://github.com/oibafdiger/filemaker-webviewer)** | Die komplette Oberfläche läuft in einem Web Viewer: Listen, Detailmasken und Dashboards, die sich zur Laufzeit umbauen lassen. Gruppieren, Sortieren und Spalten wählen geht spontan, statt an feste Zwischenergebnis-Teile gebunden zu sein. | Testseite online |
+| **[filemaker-webviewer](https://github.com/oibafdiger/filemaker-webviewer)** | Auswertungen in einem Web Viewer, mit FileMaker als Datenquelle. Einzelbuchungen kommen als Sätze, Gruppensummen rechnet FileMaker per ExecuteSQL vor — beide Wege münden in dieselbe Struktur. Gruppierung, Zeitraum und Kennzahl zur Laufzeit, Kennzahlen werden in einer Einrichtungsmaske mit den Spalten der Quelle verknüpft. | [Testseiten online](https://oibafdiger.github.io/filemaker-webviewer/) |
 | **[kundenverwaltung](https://github.com/oibafdiger/kundenverwaltung)** | Objektorientierte Kundenverwaltung in Python mit Fokus auf Designentscheidungen: Komposition statt Vererbung, ABC und Protocol, eigene Fehlerhierarchie. `mypy --strict`, 108 Tests. | laufend |
 | **filemaker-toolkit** | Wiederverwendbare Bausteine für FileMaker: JSON-basierte Parameterübergabe, ein leichtgewichtiges Audit darauf aufbauend und Meldungen im Web Viewer. | Konzept |
 | **[Uebungsprojekte](https://github.com/oibafdiger/Uebungsprojekte)** | Relationale Datenbanken mit PostgreSQL sowie Python-Grundlagen und Algorithmen. | laufend |
